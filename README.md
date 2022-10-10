@@ -7,7 +7,7 @@ My name is Ivanov Ivan. I'm a beginner Data Scientist and ML-engineer.
 
 [Here](https://hh.ru) will be a link to my CV soon...
 
-Welocome to se my currents [projects](https://github.com/Abitofbrain/learning_projects)
+Welcome to check out my currents [projects](https://github.com/Abitofbrain/learning_projects)
 
 Below is a list of images of my many certifications:
 
