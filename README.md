@@ -7,6 +7,10 @@ My name is Ivanov Ivan. I'm a beginner Data Scientist and ML-engineer.
 
 [Here](https://hh.ru) will be a link to my CV soon...
 
+[My Kaggle profile](https://www.kaggle.com/abitofbrain)
+
+[Linkedin](https://www.linkedin.com/in/andrew-lazko/)
+
 Welcome to check out my currents [projects](https://github.com/Abitofbrain/learning_projects)
 
 There are the images of my many certifications below:
